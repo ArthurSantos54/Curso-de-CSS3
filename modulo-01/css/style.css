@@ -1,0 +1,28 @@
+/***** AULA 06
+#conteudo {min-width:500px; min-height: 20px; background-color: green; color:#fff; padding: 20px;}
+*/
+
+/***** AULA 05
+.texto-principal {color: red; text-align: center;}
+.fundo-principal {background-color: green; padding: 20px;}
+#conteudo {background-color: blue; padding: 20px; color:green;}
+*/
+
+/***** AULA 04
+h1, h2, p {color:red; text-align: center;}
+*/
+
+/***** AULA 02 E 03
+*{margin: 0; padding: 0;}
+
+h1 {color:blue; font-size: 50px;}
+p {color:green; font-size: 12px;}
+
+input[type="text"] {width: 200px; background-color: #ccc; height: 35px; border: none;}
+input[name="email"] {width: 200px; background-color: #ccc; height: 35px; border: none;}
+input[type="submit"] {width: 50px; background-color: green; height: 35px; border: none; cursor: pointer; color:#fff}
+*/
+
+/* AULA 01 
+h1 {color:blue; font-size:60px; font-family: tahoma;}
+*/
